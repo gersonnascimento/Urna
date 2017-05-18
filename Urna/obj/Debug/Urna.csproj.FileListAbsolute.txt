@@ -1,0 +1,45 @@
+E:\Executaveis liberados\Urna\Urna\bin\Debug\Urna.exe.config
+E:\Executaveis liberados\Urna\Urna\bin\Debug\Urna.exe
+E:\Executaveis liberados\Urna\Urna\bin\Debug\Urna.pdb
+E:\Executaveis liberados\Urna\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Urna\Urna\obj\Debug\Urna.Form1.resources
+E:\Executaveis liberados\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+E:\Executaveis liberados\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Urna\Urna\obj\Debug\Urna.exe
+E:\Executaveis liberados\Urna\Urna\obj\Debug\Urna.pdb
+D:\Urna\Urna\bin\Debug\Urna.exe.config
+D:\Urna\Urna\obj\Debug\Urna.exe
+D:\Urna\Urna\obj\Debug\Urna.pdb
+D:\Urna\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+D:\Urna\Urna\obj\Debug\Urna.Form1.resources
+D:\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+D:\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
+D:\Urna\Urna\bin\Debug\Urna.exe
+D:\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\gerso\Desktop\Urna\Nova pasta\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\gerso\Desktop\proj Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\gerso\Desktop\proj Urna\Urna\obj\Debug\Urna.exe
+C:\Users\gerso\Desktop\proj Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\gerso\Desktop\proj Urna\Urna\bin\Debug\Urna.exe
+C:\Users\gerso\Desktop\proj Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\gerso\Desktop\proj Urna\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Desktop\proj Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\gerso\Desktop\proj Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\gerso\Desktop\proj Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\bin\Debug\Urna.exe.config
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\obj\Debug\Urna.exe
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\obj\Debug\Urna.pdb
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\bin\Debug\Urna.exe
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\bin\Debug\Urna.pdb
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\obj\Debug\Urna.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\gerso\Desktop\Urna Oficial Gerson\Urna\obj\Debug\Urna.csproj.GenerateResource.Cache
